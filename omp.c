@@ -1,4 +1,4 @@
-//Please edit the value assigned to the variable "size" in line #50 accordingly for time calculation
+//Please edit the value assigned to the variable "size" in line #108 accordingly for time calculation
 
 #include<stdio.h>
 #include<omp.h>
