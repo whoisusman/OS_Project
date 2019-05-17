@@ -1,4 +1,4 @@
-//Please edit the value assigned to the variable "size" in line #7 accordingly for time calculation
+//Please edit the value assigned to the variable "size" in line #8 accordingly for time calculation
 
 #include<stdio.h>
 #include<pthread.h>
